@@ -2,7 +2,6 @@
 
 - 🤔 Exploring news techs and software development.
 - 🎓 Studying since <span title="mm/dd/yyyy">09/01/2023</span>
-- 💼 Working as input type="none"
 - 🌱 Learning about **JavaScript, Python**.
 
 > [!NOTE]

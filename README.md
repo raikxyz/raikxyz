@@ -6,6 +6,9 @@
 - 💼 Working as input type="none"
 - 🌱 Learning about **JavaScript, Python**.
 
+> [!NOTE]
+> Passionate about `learning`, always striving for improvement
+
 <h3>Skills</h3>
 
 **Development Stack**

@@ -22,7 +22,7 @@
 <br/>
 
 <a href="https://github.com/raikxyz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raikxyz&theme=dracula&show_icons=true" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=raikxyz&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api?username=raikxyz&theme=dracula&show_icons=true)" />
 </a>
 
 <h3>Where you can find me</h3>

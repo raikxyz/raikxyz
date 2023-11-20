@@ -1,7 +1,6 @@
 <h3>About me</h3>
 
 - 🤔 Exploring news techs and software development.
-- 🎓 Studying since <span title="mm/dd/yyyy">10/01/2023</span> (mm/dd/yyyy)
 - 🌱 Learning about **JavaScript, Python**.
 
 > [!NOTE]

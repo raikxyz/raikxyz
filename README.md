@@ -7,7 +7,7 @@
   
  🤔 Exploring new tech and software development.
   
- 🌱 Learning about **JavaScript, Python, and C**.
+ 🌱 Learning about **JavaScript and Python**.
 <br><br>
 </div>
 <div align="center">
